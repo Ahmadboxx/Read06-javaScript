@@ -1,5 +1,5 @@
-# Read06-javaScript
-JavaScript  
+## Read06-javaScript
+# JavaScript  
 
 For me JavaScript is a high level, interpreted, programming language used to make web pages more interactive.I have figured out that JavaScript is the language of the web, it is used to make the web look alive by adding motion to it.
 
